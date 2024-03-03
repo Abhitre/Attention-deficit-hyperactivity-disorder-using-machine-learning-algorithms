@@ -1,6 +1,6 @@
 # Diagnosis and Prediction of ADHD Disease using Machine Learning Methods on EEG Data
 
-This repository contains the code and resources for the major project associated with Barkatullah University Instituate of Technology, named "Diagnosis and Prediction of ADHD Disease using Machine Learning Methods on EEG Data." In this project, I have utilized EEG data obtained from IEEE and applied five machine learning algorithms: Logistic Regression, K-Neighbours Classifier, Gaussian Naïve Bayes, Decision Tree Classifier, and Random Forest Classifier. The accuracies achieved by these algorithms are as follows:
+This repository contains the code and resources for the major project associated with Vellore Instituate of Technology, named "Diagnosis and Prediction of ADHD Disease using Machine Learning Methods on EEG Data." In this project, I have utilized EEG data obtained from IEEE and applied five machine learning algorithms: Logistic Regression, K-Neighbours Classifier, Gaussian Naïve Bayes, Decision Tree Classifier, and Random Forest Classifier. The accuracies achieved by these algorithms are as follows:
 
 - Logistic Regression: 60.25%
 - K-Neighbours Classifier: 92.01%
@@ -15,7 +15,7 @@ Among all the algorithms, the K-Neighbours Classifier demonstrated the highest a
 To get started, simply clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/ashwinimishra24/Diagnosis-and-prediction-of-ADHD-disease-using-Machine-Learning-method-on-EEG-data
+git clone https://github.com/Abhitre/Attention-deficit-hyperactivity-disorder-using-machine-learning-algorithms
 ```
 
 ## Dataset
